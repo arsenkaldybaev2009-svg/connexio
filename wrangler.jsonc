@@ -1,0 +1,8 @@
+{
+  // Cloudflare Workers: сайт отдаётся как статические файлы из корня репозитория
+  "name": "connexio",
+  "compatibility_date": "2025-11-01",
+  "assets": {
+    "directory": "./"
+  }
+}
